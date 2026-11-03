@@ -1,2 +1,2 @@
 # releases
-installers for Bluestone Revit tools. Download at bluestonebim.com
+Installers for Bluestone Revit tools. Download at bluestonebim.com
